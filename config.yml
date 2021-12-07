@@ -1,0 +1,115 @@
+baseURL: "https://marc.damie.eu/"
+title: Marc's journey through Computer Science
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Marc DAMIE website
+  description: "Work and thoughts of Marc DAMIE"
+  keywords: [Blog, Computer Science, Research, Machine Learning, Cryptography, Privacy]
+  author: Marc DAMIE
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: icon.svg
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: icon.svg
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Hi! I am Marc DAMIE
+    subtitle: "In this website, you will discover my humble adventure in the universe of Computer Science. Feel free to contact me if you have any question about my work or if you want to talk about geeky stuff!"
+    # imageUrl: "glyph_marc.svg"
+    imageUrl: "profile_pic.jpg"
+    imageWidth: 250
+    imageHeight: 250
+    imageTitle: My profile pic'
+    buttons:
+      - name: About
+        url: about
+      - name: Research
+        url: research
+
+  socialIcons:
+    - name: googlescholar
+      url: "https://scholar.google.fr/citations?user=dwdQ8d8AAAAJ&hl=en"
+    - name: github
+      url: "https://github.com/MarcT0K"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/marc-damie-723ba2191/"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/MarcT0K/marct0k.github.io/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 0
+  #   keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: Various projects
+      url: /projects/
+      weight: 20
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 30
+    - identifier: resume
+      name: Resume
+      url: https://example.org
+      weight: 40
