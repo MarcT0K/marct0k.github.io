@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 params:
-  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Marc DAMIE website
   description: "Work and thoughts of Marc DAMIE"
   keywords: [Blog, Computer Science, Research, Machine Learning, Cryptography, Privacy]
@@ -75,6 +75,8 @@ params:
       url: "https://github.com/MarcT0K"
     - name: linkedin
       url: "https://www.linkedin.com/in/marc-damie-723ba2191/"
+    - name: rss
+      url: "/posts/index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -93,7 +95,7 @@ params:
   #   shouldSort: true
   #   location: 0
   #   distance: 1000
-  #   threshold: 0
+  #   threshold: 0.4
   #   minMatchCharLength: 0
   #   keys: ["title", "permalink", "summary", "content"]
 
@@ -117,6 +119,13 @@ menu:
     - name: Tags
       url: tags/
       weight: 4
+
+outputs:
+    home:
+        - HTML
+        - JSON
+    posts:
+        - RSS
 
 taxonomies:
     category: categories

@@ -1,8 +1,7 @@
 ---
 title: "Graph visualization: Scientology Web strategy"
 date: 2021-12-08T08:12:24+01:00
-slug:
-category: ["project", "graph"]
+tags: ["Academic project", "Graph", "Social sciences"]
 summary: "I analyze the Web territory occupation using graphs and expose the very specific strategy deployed by the Church of Scientology to \"hack\" the Page Rank"
 description: "I analyze the Web territory occupation using graphs and expose the very specific strategy deployed by the Church of Scientology to \"hack\" the Page Rank"
 cover:
@@ -11,7 +10,7 @@ cover:
   caption: "Graph presenting the strategy of Web territory occupation deployed by the Church of Scientology."
   relative: false
 showtoc: false
-draft: true
+draft: false
 ---
 
 # Academic context

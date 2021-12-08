@@ -1,8 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-slug:
-category:
+tags:
 summary:
 description: Same as the summary
 cover:
@@ -10,6 +9,6 @@ cover:
   alt:
   caption:
   relative: false
-showtoc: true
+showtoc: false
 draft: true
 ---
