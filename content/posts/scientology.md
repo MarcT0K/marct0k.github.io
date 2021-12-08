@@ -3,8 +3,8 @@ title: "Graph visualization: Scientology Web strategy"
 date: 2021-12-08T08:12:24+01:00
 slug:
 category: ["project", "graph"]
-summary: "I analyze the Web territory occuptation using graphs and expose the very specific strategy deployed by the Church of Scientology to \"hack\" the Page Rank"
-description: "I analyze the Web territory occuptation using graphs and expose the very specific strategy deployed by the Church of Scientology to \"hack\" the Page Rank"
+summary: "I analyze the Web territory occupation using graphs and expose the very specific strategy deployed by the Church of Scientology to \"hack\" the Page Rank"
+description: "I analyze the Web territory occupation using graphs and expose the very specific strategy deployed by the Church of Scientology to \"hack\" the Page Rank"
 cover:
   image: "/images/sciento-min.png"
   alt: "Scientology Web network"
@@ -26,8 +26,7 @@ If you want to learn more about the analysis of the Web using graph, I strongly 
 # Graph on Scientology's strategy of web occupation
 Thanks to the graph above, we see an occupation of Web territory very well thought by the Church of Scientology. To create this graph, I just needed to crawl from scientology.org (with a fixed maximum depth). No data cleaning has been done.
 
-TODO : [Web Version of the graph]()
-
+[Web Version of the graph](/scientology-graph/index.html)
 ## *Legend*
 
 * Node : Web site/entity
