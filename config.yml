@@ -13,7 +13,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Marc DAMIE website
   description: "Work and thoughts of Marc DAMIE"
   keywords: [Blog, Computer Science, Research, Machine Learning, Cryptography, Privacy]
@@ -27,7 +27,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -47,17 +47,16 @@ params:
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: icon.svg
+    text: "Marc DAMIE"
+    icon: "/icon.svg"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Hi! I am Marc DAMIE
+    title: Bonjour, I am Marc DAMIE
     subtitle: "In this website, you will discover my humble adventure in the universe of Computer Science. Feel free to contact me if you have any question about my work or if you want to talk about geeky stuff!"
-    # imageUrl: "glyph_marc.svg"
-    imageUrl: "profile_pic.jpg"
+    imageUrl: "/images/profile_pic.jpg"
     imageWidth: 250
     imageHeight: 250
     imageTitle: My profile pic'
@@ -66,6 +65,8 @@ params:
         url: about
       - name: Research
         url: research
+      - name: Posts
+        url: posts
 
   socialIcons:
     - name: googlescholar
@@ -78,7 +79,7 @@ params:
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "https://github.com/MarcT0K/marct0k.github.io/content"
@@ -92,24 +93,32 @@ params:
   #   shouldSort: true
   #   location: 0
   #   distance: 1000
-  #   threshold: 0.4
+  #   threshold: 0
   #   minMatchCharLength: 0
   #   keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: about
       name: About
-      url: /about/
-      weight: 10
-    - identifier: projects
-      name: Various projects
-      url: /projects/
-      weight: 20
+      url: /about
+      weight: 1
     - identifier: research
       name: Research
-      url: /research/
-      weight: 30
-    - identifier: resume
-      name: Resume
-      url: https://example.org
-      weight: 40
+      url: /research
+      weight: 2
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 3
+    - name: Search
+      url: search/
+      weight: 4
+    - name: Tags
+      url: tags/
+      weight: 4
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
