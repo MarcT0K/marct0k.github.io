@@ -38,7 +38,7 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
+    disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: icon.svg
     # favicon16x16: "<link / abs url>"
@@ -55,7 +55,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Bonjour, I am Marc DAMIE
-    subtitle: "In this website, you will discover my humble adventure in the universe of Computer Science. Feel free to contact me if you have any question about my work or if you want to talk about geeky stuff!"
+    subtitle: PhD Student in Privacy-Preserving Machine Learning @ Inria Lille & UTwente
     imageUrl: "/images/profile_pic.jpg"
     imageWidth: 250
     imageHeight: 250
@@ -67,6 +67,9 @@ params:
         url: research
       - name: Posts
         url: posts
+      - name: "GPG 🔑"
+        url: damie.asc
+
 
   socialIcons:
     - name: googlescholar
@@ -113,7 +116,7 @@ menu:
       name: Posts
       url: /posts/
       weight: 3
-    - name: Search
+    - name: 🔍
       url: search/
       weight: 4
     - name: Tags

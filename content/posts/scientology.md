@@ -28,9 +28,9 @@ Thanks to the graph above, we see an occupation of Web territory very well thoug
 [Web Version of the graph](/scientology-graph/index.html)
 ## *Legend*
 
-* Node : Web site/entity
-* Edge : Hyperlink beteen two entities
-* Color/Size : node degree
+* Node : Website/entity
+* Edge : Hyperlink between two entities
+* Colour/Size : node degree
 
 # Graph analysis
 
