@@ -54,7 +54,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Bonjour, I am Marc DAMIE
+    title: Bonjour, I am Marc DAMIE 👋
     subtitle: PhD Student in Privacy-Preserving Machine Learning @ Inria Lille & UTwente
     imageUrl: "/images/profile_pic.jpg"
     imageWidth: 250
