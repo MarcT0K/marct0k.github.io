@@ -2,16 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Admin sys on Marc&#39;s journey through Computer Science</title>
-    <link>https://marc.damie.eu/tags/admin-sys/</link>
+    <link>https://marct0k.github.io/tags/admin-sys/</link>
     <description>Recent content in Admin sys on Marc&#39;s journey through Computer Science</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Dec 2021 08:12:15 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/tags/admin-sys/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 08 Dec 2021 08:12:15 +0100</lastBuildDate><atom:link href="https://marct0k.github.io/tags/admin-sys/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introductory courses on system and network administration</title>
-      <link>https://marc.damie.eu/posts/network-service-course/</link>
+      <link>https://marct0k.github.io/posts/network-service-course/</link>
       <pubDate>Wed, 08 Dec 2021 08:12:15 +0100</pubDate>
       
-      <guid>https://marc.damie.eu/posts/network-service-course/</guid>
+      <guid>https://marct0k.github.io/posts/network-service-course/</guid>
       <description>Academic project to conceive basic courses about system administration.</description>
     </item>
     
