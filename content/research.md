@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Me, my research and I."
 url: "/research"
 hidemeta: true
 disableshare: true

@@ -1,5 +1,6 @@
-baseURL: "https://marc.damie.eu/"
+baseURL: "https://marct0k.github.io/"
 title: Marc's journey through Computer Science
+languageCode: en-uk
 paginate: 5
 theme: PaperMod
 
@@ -51,7 +52,6 @@ params:
     icon: "/icon.svg"
     iconHeight: 35
 
-  # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Bonjour, I am Marc DAMIE 👋
