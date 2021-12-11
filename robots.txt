@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marc.damie.eu/sitemap.xml
