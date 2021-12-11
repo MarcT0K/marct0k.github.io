@@ -49,8 +49,6 @@ params:
 
   label:
     text: "Marc DAMIE"
-    icon: "/icon.svg"
-    iconHeight: 35
 
   profileMode:
     enabled: true # needs to be explicitly set

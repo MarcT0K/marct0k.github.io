@@ -14,11 +14,11 @@ showtoc: false
 draft: false
 ---
 
-# Academic context
+# Academic context 🏫
 
 This project had been supervised by Stéphane Crozat (Assistant professor at the University of Technology of Compiègne) and Antoine Barbare (Engineer at Scaleway). The objective was to create introductory courses for classic courses or one-time trainings.
 
-# Results
+# Results 🖧
 
 I contributed in several parts of these courses:
 
@@ -30,7 +30,7 @@ et [Sauvegarde et restauration d'une base de données sous PostgreSQL](https://s
 
 For more details, you can read this [wiki](https://wiki.picasoft.net/doku.php?id=txs:sr-p18:index) (only in French).
 
-# Technologies
+# Technologies 💻
 
 * PHP
 * Nginx

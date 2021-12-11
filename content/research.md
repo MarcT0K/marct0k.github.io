@@ -13,7 +13,7 @@ In October 2021, I started a PhD in Federated Learning between Inria Lille and t
 
 The goal of my thesis is to provide highly scalable and secure solutions for Federated Learning with a particular focus on ressource-constrained devices (e.g. smartphones).
 
-# Research Interests 🔎
+# Research Interests 🔬
 
 I have two main research interests are:
 

@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 url: "/about"
 hidemeta: true
 disableshare: true
@@ -13,7 +13,7 @@ math: true
 ---
 
 
-# Short Bio
+# Short Bio 📕
 
 I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in Federated Learning between the University of Twente and Inria Lille.
 
@@ -21,9 +21,9 @@ I'm some sort of geeky person 🤓 to discuss in vain any new hype technology. O
 
 If you are interested in my work (or in my thoughts), please feel free to send me a message so we can discuss!
 
-# Long Bio
+# Long Bio 📚
 
-## Education
+## Education 🎓
 
 - *[2016-2021]* **Engineering diploma** in Computer Science from the [University of Technology of Compiègne (UTC)](https://www.utc.fr) (Compiègne, France)
   - Speciality: Data Mining
@@ -37,7 +37,7 @@ If you are interested in my work (or in my thoughts), please feel free to send m
 - *[-]* Completed MOOCs (Remote)
   - GDPR (CNIL), Cryptography I (Dan Boneh), Programming in C (OpenClassroom), Programming in JS (OpenClassroom), Programming in Python (OpenClassroom)
 
-## Work experience
+## Work experience 💼
 
 - *[Oct. 21 - Sept. 25]* **PhD student in Federated Learning** (France/The Netherlands)
   - Co-supervised by Florian Hahn (University of Twente), Andreas Peter (University of Twente/University of Oldenburg) and Jan Ramon (Inria Lille).
@@ -65,7 +65,7 @@ If you are interested in my work (or in my thoughts), please feel free to send m
 - *[2017]* MOOC instructor (France)
   - Examiner for an IFCAM (Crédit Agricole) MOOC about digital writing
 
-## Volunteering in non-profit associations
+## Volunteering in non-profit associations 🚀
 
 - *[Since February 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/) : a non-profit Internet Service Provider
   - Provides events, like [Imaginarium Festival](https://www.imaginariumfestival.com/), with WiFi used for contactless payment
@@ -78,28 +78,28 @@ If you are interested in my work (or in my thoughts), please feel free to send m
   - Website and reservation system development
   - Enigmas using computers, Raspberry Pi and sensors
 
-## Academic Involvements
+## Academic Involvements 🏫
 
 - *[2017-2021]* **Student representative in the board of directors** of the University of Technology of Compiègne
 - *[2018-2019]* Student representative in the CS department of the University of Technology of Compiègne
 - *[2017-2019]* Student representative in the Humanities department of the University of Technology of Compiègne
 
 
-## Technical skills
+## Technical skills 💻
 
 - Expert: `Python`, `Django`, `Flask`, `LaTeX`, `Redis`
 - Advanced: `C/C++`, `ElasticSearch`, `Docker`, `SQL`
 - Intermediate: `R`, `Scylla`, `MongoDB`
 - Other technologies I used/learned: `Rust`, `XML`, `XSLT`, `Scilab`, `UML`, `php`, `Bash`, `HTML/CSS`, etc.
 
-## Language skills
+## Language skills 🌍
 
 - French: Native
 - English: C1
 - Spanish: B2
 - Basics of Russian and Chinese
 
-## My Interests
+## My Interests 🧙
 
 - eSport 🎮
 - CTF
