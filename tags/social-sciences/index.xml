@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Social sciences on Marc&#39;s journey through Computer Science</title>
-    <link>https://marct0k.github.io/tags/social-sciences/</link>
+    <link>https://marc.damie.eu/tags/social-sciences/</link>
     <description>Recent content in Social sciences on Marc&#39;s journey through Computer Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 08 Dec 2021 08:12:24 +0100</lastBuildDate><atom:link href="https://marct0k.github.io/tags/social-sciences/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 08:12:24 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/tags/social-sciences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Graph visualization: Scientology Web strategy</title>
-      <link>https://marct0k.github.io/posts/scientology/</link>
+      <link>https://marc.damie.eu/posts/scientology/</link>
       <pubDate>Wed, 08 Dec 2021 08:12:24 +0100</pubDate>
       
-      <guid>https://marct0k.github.io/posts/scientology/</guid>
+      <guid>https://marc.damie.eu/posts/scientology/</guid>
       <description>I analyze the Web territory occupation using graphs and expose the very specific strategy deployed by the Church of Scientology to &amp;#34;hack&amp;#34; the Page Rank</description>
     </item>
     
