@@ -60,11 +60,11 @@ params:
     imageTitle: My profile pic'
     buttons:
       - name: About
-        url: about
+        url: /about/
       - name: Research
-        url: research
+        url: /research/
       - name: Posts
-        url: posts
+        url: /posts/
       - name: "GPG 🔑"
         url: damie.asc
 
@@ -104,21 +104,21 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /about
+      url: /about/
       weight: 1
     - identifier: research
       name: Research
-      url: /research
+      url: /research/
       weight: 2
-    - identifier: posts
+    - identifier: posts/
       name: Posts
       url: /posts/
       weight: 3
     - name: 🔍
-      url: search/
+      url: /search/
       weight: 4
     - name: Tags
-      url: tags/
+      url: /tags/
       weight: 4
 
 outputs:
