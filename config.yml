@@ -76,8 +76,13 @@ params:
       url: "https://github.com/MarcT0K"
     - name: linkedin
       url: "https://www.linkedin.com/in/marc-damie-723ba2191/"
+    - name: cryptohack
+      url: "https://cryptohack.org/user/marc_t0k/"
+    - name: hackthebox
+      url: "https://app.hackthebox.com/profile/276756"
     - name: rss
       url: "/posts/index.xml"
+
 
   cover:
     hidden: true # hide everywhere but not in structured data
