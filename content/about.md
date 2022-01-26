@@ -53,7 +53,7 @@ If you are interested in my work (or in my thoughts), please feel free to send m
   - Supervised by Andreas Peter and Florian Hahn
   - `Python`, `numpy`, `pandas`, `nltk`, `scipy`
 - *[2020]* Freelance (Remote)
-  - Producing MOOC-like contents for a programming training.
+  - Producing MOOC-like contents for a programming training. Open-source modules (examples: [Introduction to security (in French)](https://librecours.net/module/culture/securite/), [Introduction to GDPR (in French)](https://librecours.net/module/culture/rgpd/index.xhtml)).
   - `Python`, `JS`
 - *[Sept. 19 - Feb. 20]* Python **Back-End intern** in [Gatewatcher](https://www.gatewatcher.com/en/) (Paris, France)
   - Work on the intrusion detection system Trackwatch
