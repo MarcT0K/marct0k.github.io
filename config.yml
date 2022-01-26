@@ -90,7 +90,7 @@ params:
     hiddenInSingle: false # hide on single page
 
   editPost:
-    URL: "https://github.com/MarcT0K/marct0k.github.io/content"
+    URL: "https://github.com/MarcT0K/marct0k.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -104,6 +104,11 @@ params:
   #   threshold: 0.4
   #   minMatchCharLength: 0
   #   keys: ["title", "permalink", "summary", "content"]
+
+editPost:
+  URL: "https://github.com/MarcT0K/marct0k.github.io/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 
 menu:
   main:

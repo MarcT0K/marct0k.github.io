@@ -17,7 +17,7 @@ math: true
 
 I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in Federated Learning between the University of Twente and Inria Lille.
 
-I'm some sort of geeky person 🤓 to discuss in vain any new hype technology. On a more personal aspect, I am trying to figure out the place (and the sense) of computers in a sustainable world 🌍.
+I am some sort of geeky person 🤓 able to discuss in vain any new hype technology. On a more personal aspect, I am trying to figure out the place (and the sense) of computers in a sustainable world 🌍.
 
 If you are interested in my work (or in my thoughts), please feel free to send me a message so we can discuss!
 
