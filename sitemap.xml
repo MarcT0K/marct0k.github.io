@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://marc.damie.eu/posts/ecml-pkdd/</loc>
+    <lastmod>2022-10-18T15:19:20+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/</loc>
+    <lastmod>2022-10-18T15:19:20+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/posts/</loc>
+    <lastmod>2022-10-18T15:19:20+01:00</lastmod>
+  </url><url>
     <loc>https://marc.damie.eu/tags/academic-project/</loc>
     <lastmod>2021-12-08T08:12:24+01:00</lastmod>
   </url><url>
@@ -9,12 +18,6 @@
     <lastmod>2021-12-08T08:12:24+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/posts/scientology/</loc>
-    <lastmod>2021-12-08T08:12:24+01:00</lastmod>
-  </url><url>
-    <loc>https://marc.damie.eu/</loc>
-    <lastmod>2021-12-08T08:12:24+01:00</lastmod>
-  </url><url>
-    <loc>https://marc.damie.eu/posts/</loc>
     <lastmod>2021-12-08T08:12:24+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/tags/social-sciences/</loc>
