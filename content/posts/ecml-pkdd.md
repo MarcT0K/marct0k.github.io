@@ -15,7 +15,7 @@ draft: false
 
 Since this post contains some criticism, a preliminary disclaimer is necessary. The conference was well organized, and I congratulate the chairs for this great event. Social events, food, venue, etc. everything was great. My criticism will be more on what is nowadays considered as good scientific work in the ML community. This criticism is obviously not limited to ML. I attended an ML conference, so I limit my discussion to the ML community even if I suppose that similar observations can be made in other communities. Hence, the concerns exposed in this post are not specific to ECML-PKDD or its organization. Moreover, I do not want to seem rude or smug, the goal of this post is simply to share the first (positive and negative) impressions of a naive and young PhD student at an ML conference. See this post more as the first page of my research life diary rather than as a structured criticism of the scientific practices.
 
-# :nerd_face: Discovering a scientific conference with fresh eyes
+# Discovering a scientific conference with fresh eyes 🤓
 
 ECML-PKDD 2022 was my first in-person conference. I didn't know what to expect. Some of my colleagues told me about conferences they went to such as ICML, but I knew ECML-PKDD was smaller. Anyway, it was hard to picture exactly how it would feel to be in a scientific conference. At first, I was a bit amazed by the fact that such big scientific event can happen while the general public totally ignore their existence.
 
@@ -34,12 +34,12 @@ Before coming to ECML-PKDD, I was not convinced by the poster format. I felt lik
 
 Finally, ECML-PKDD was an occasion to see some brilliant researchers such as Francis Bach or Yann Le Cun. I studied in a small French university, so I had less opportunities than other (Parisian) students to meet researchers of such world renown. I was a bit disappointed by how normal they seemed. I was expecting quirkier researchers. In the past, I read some stories about the mathematician Norbert Wiener and I wanted to meet such unique personalities. There are two solutions to this enigma: either researchers act normal in public to avoid having funny stories published about them by their peers, or ML has become so mainstream that we lost all sense of quirkiness in the process :clown_face:.
 
-# :cry: Disillusions
+# Disillusions 😢
 
 Now, it is the tough part for me and possibly, the juicy part for you: it is time for some criticism.
 I encountered three main issues: over-specialization, (capitalistic) motivations of the papers, *publish or perish*.
 
-## :microscope: Over-specialization
+## Over-specialization 🔬
 
 This first issue is related to my expectations for the presentations. Paper are more and more specialized and some of them can barely be understood by researchers which are not expert in the studied sub-field. I had a similar remark on my first paper but the problem became so real when I attended ECML-PKDD. I saw presentations of ML papers from which I cannot draw any conclusion because I was unable to understand anything. It can then be a beginner mistake.
 
@@ -49,7 +49,7 @@ I am myself working at the edge of several CS fields: security, cryptography, an
 
 I am probably judging researchers a bit too quickly there. Having a fixed community is also convenient for collaboration and publication but I still want to emphasize this impression I got.
 
-## :euro: Capitalistic motivations of the papers
+## Capitalistic motivations of the papers 💶
 
 I want to start this paragraph by a simple statement: *everything is political, including scientific work*. I am one of those researchers who find irritating the claim of "apolitical work". I don't have time (and qualifications) to detail this topic, but I suggest [1] by L. Wiener which is a great starting point for this kind of discussions.
 
@@ -60,7 +60,7 @@ I believe we should be more careful at our expectations in terms of motivations.
 
 Recently, I read [2] by Rogaway which detailed such criticism for the cryptography community. Rogaway highlights the role of cryptographers and questions the interests of the current research works. He even identified when a split happened in the crypto community: when the cryptographers started doing *cryptography for cryptography* instead of *cryptography for the people*. I think a similar discussion is necessary among AI researchers. We need to define the exact role of ML research in our societies. Yann Le Cun gave a first answer to this question during his keynote: he promoted autonomous intelligence (via self-supervised learning). This idea seems very similar to what the founders of AI imagined. However, I can also criticize this vision and ask whether it truly fits the current challenges of our societies? Some researchers (such as Romain Couillet [3]) are developing a discourse about frugal AI and even question whether a sustainable AI can even exist considering the carbon footprint of the modern ML models. Finally, there is also the issue of developing AI for the people. Currently, most AI models are only used by big companies to increase profit. Then, I want to add another question: can we use AI to *truly* improve the average human being daily life?
 
-## :skull: Publish or perish: motivations of the researchers
+## Publish or perish: motivations of the researchers 💀
 
 Now, that I talked about motivations of the papers, I should talk about motivations of the researchers. I am not discovering the *publish or perish* concept (i.e., the pressure to publish more and more publish to succeed in academic careers). However, I discovered how researchers behave according to it. Usually, all researchers discussing this concept agree that it is a problem. But, in this conference, it became more obvious that many of them fully accepted it. I can give a concrete example: during a poster session, I discussed with a PhD student that presented vaguely his work without any conviction. At the end of our discussion, he even said that he published it because you are excepted to have at least three papers by the end of your PhD. I was astonished by his sentence. I am sure that this attitude is shared by many researchers who don't dare saying it as explicitly as this student.
 
@@ -74,7 +74,7 @@ After all this criticism, you may want to confront me and ask whether I am such 
 
 Undoubtedly, I will publish over-specialized papers (and already did!), I'll have papers with purely capitalistic motivations, etc. **However, I'll also try to have scientific practices that converge as much as possible towards the ideals I had in me on September 19, 2022, when I arrived in ECML-PKDD.**
 
-# :books: References
+# References 📚
 
 1. Winner, L. (2017). Do artifacts have politics?. In Computer Ethics (pp. 177-192). Routledge.
 2. Rogaway, P. (2015). The moral character of cryptographic work. Cryptology ePrint Archive.
