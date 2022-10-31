@@ -6,7 +6,7 @@ disableshare: true
 summary:
     About Marc DAMIE. The short story of my life.
 description:
-    "In this website, you will discover my humble adventure in the universe of Computer Science. Feel free to contact me if you have any question about my work or if you simply want to talk about geeky stuff!"
+    "On this website, you will discover my humble adventure in the universe of Computer Science. Feel free to contact me if you have any questions about my work or if you want to talk about geeky stuff!"
 draft: false
 showtoc: true
 math: true
@@ -16,17 +16,16 @@ math: true
 # Short Bio 📕
 
 I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in Federated Learning between the University of Twente and Inria Lille.
+I am a geeky person 🤓 able to discuss in vain any new hype technology. But, on a more personal aspect, I am trying to figure out the place (and the sense) of computers in a sustainable world 🌍.
 
-I am some sort of geeky person 🤓 able to discuss in vain any new hype technology. On a more personal aspect, I am trying to figure out the place (and the sense) of computers in a sustainable world 🌍.
-
-If you are interested in my work (or in my thoughts), please feel free to send me a message so we can discuss!
+If you are interested in my work (or in my thoughts), please feel free to send me a message so we can discuss it!
 
 # Long Bio 📚
 
 ## Education 🎓
 
 - *[2016-2021]* **Engineering diploma** in Computer Science from the [University of Technology of Compiègne (UTC)](https://www.utc.fr) (Compiègne, France)
-  - Speciality: Data Mining
+  - Major: Data Mining
   - Minors: "Mathematical Modelling", "Philosophy, Technology and Cognition", "Controversies, Communication and Technology"
   - GPA: 5/5
 - *[July 2019]* **TOEFL** iBT
@@ -42,18 +41,18 @@ If you are interested in my work (or in my thoughts), please feel free to send m
 - *[Oct. 21 - Sept. 25]* **PhD student in Federated Learning** (France/The Netherlands)
   - Co-supervised by Florian Hahn (University of Twente), Andreas Peter (University of Twente/University of Oldenburg) and Jan Ramon (Inria Lille).
   - Our general goal is to bring scalability and security to Federated Learning.
-  - Topics: Cryptography, privacy, ML, Secure Multi-Party Computation 
+  - Topics: Cryptography, privacy, ML, Secure Multi-Party Computation
   - `C/C++`, `Python`, `Rust`
 - *[Feb. 21 - July 21]* **Research engineer internship** in the [Inria MAGNET team](https://team.inria.fr/magnet/) (Lille, France)
   - POC for a decentralized secure privacy-preserving surveying for mobile devices.
-  - Development and technology watch for the open-source library Tailed (which goals is to simplify the access to trustworthy Federated Learning)
+  - Development and technology watch for the open-source library Tailed (which goal is to simplify access to trustworthy Federated Learning)
   - `C/C++`, `Python`, `Kivy`, `Starlette`, `Redis`, `Gitlab CI`
-- *[Feb. 20 - July 20]* **Research intern** in the [Services, Cybersecurity and Safety group](https://www.utwente.nl/en/eemcs/scs/) (University of Twente, Netherlans)
+- *[Feb. 20 - July 20]* **Research intern** in the [Services, Cybersecurity and Safety group](https://www.utwente.nl/en/eemcs/scs/) (University of Twente, Netherlands)
   - Attacks against Searchable Symmetric Encryption
   - Supervised by Andreas Peter and Florian Hahn
   - `Python`, `numpy`, `pandas`, `nltk`, `scipy`
 - *[2020]* Freelance (Remote)
-  - Producing MOOC-like contents for a programming training. Open-source modules (examples: [Introduction to security (in French)](https://librecours.net/module/culture/securite/), [Introduction to GDPR (in French)](https://librecours.net/module/culture/rgpd/index.xhtml)).
+  - Producing MOOC-like content for a programming training. Open-source modules (examples: [Introduction to security (in French)](https://librecours.net/module/culture/securite/), [Introduction to GDPR (in French)](https://librecours.net/module/culture/rgpd/index.xhtml)).
   - `Python`, `JS`
 - *[Sept. 19 - Feb. 20]* Python **Back-End intern** in [Gatewatcher](https://www.gatewatcher.com/en/) (Paris, France)
   - Work on the intrusion detection system Trackwatch
@@ -76,14 +75,13 @@ If you are interested in my work (or in my thoughts), please feel free to send m
   - Organization of the third TEDxUTCompiègne conference
 - *[2019]* IT Manager of Escap'UT (student association organizing escape games in our university)
   - Website and reservation system development
-  - Enigmas using computers, Raspberry Pi and sensors
+  - Enigmas using computers, Raspberry Pi, and sensors
 
 ## Academic Involvements 🏫
 
 - *[2017-2021]* **Student representative in the board of directors** of the University of Technology of Compiègne
 - *[2018-2019]* Student representative in the CS department of the University of Technology of Compiègne
 - *[2017-2019]* Student representative in the Humanities department of the University of Technology of Compiègne
-
 
 ## Technical skills 💻
 
