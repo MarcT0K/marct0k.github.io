@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Bonjour, I am Marc DAMIE 👋
-    subtitle: I am PhD Student in Privacy-Preserving Machine Learning @ Inria Lille & UTwente. This website provides updated information about my research work as well as various thoughts related to research, technology or modern society.
+    subtitle: I am a PhD Student in Privacy-Preserving Machine Learning between Inria 🇫🇷 & UTwente 🇳🇱. This website provides updated information about my research work as well as various thoughts related to research, technology or modern society.
     imageUrl: "/images/profile_pic.jpg"
     imageWidth: 250
     imageHeight: 250
