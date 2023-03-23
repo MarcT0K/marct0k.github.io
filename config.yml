@@ -17,7 +17,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Marc DAMIE website
   description: "Work and thoughts of Marc DAMIE"
-  keywords: [Blog, Research, Cryptography, Privacy, Machine Learning, Computer Science, "Marc DAMIE", Marc, DAMIE]
+  keywords: [Research, Cryptography, Privacy, Machine Learning, Marc, DAMIE]
   author: Marc DAMIE
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
