@@ -1,6 +1,6 @@
 baseURL: "https://marc.damie.eu/"
-title: Marc's journey through Computer Science
-languageCode: en-uk
+title: Marc DAMIE - Researcher - Human form of the light bulb emoji
+languageCode: en-us
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Marc DAMIE website
-  description: "Work and thoughts of Marc DAMIE"
+  description: "Work and thoughts of Marc DAMIE, researcher in privacy-enhancing technologies"
   keywords: [Research, Cryptography, Privacy, Machine Learning, Marc, DAMIE]
   author: Marc DAMIE
   # author: ["Me", "You"] # multiple authors
