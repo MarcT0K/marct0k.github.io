@@ -15,8 +15,8 @@ math: true
 
 # Short Bio 📕
 
-I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in Federated Learning between the University of Twente and Inria Lille.
-I am a geeky person 🤓 able to discuss in vain any new hype technology. But, on a more personal aspect, I am trying to figure out the place (and the sense) of computers in a sustainable world 🌍.
+I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in privacy-preserving machine learning between the University of Twente 🇳🇱 and Inria Lille 🇫🇷.
+I am a geeky person 🤓 able to discuss in vain any new hype technology. But, on a more personal aspect, I am trying to figure out the place (and the sense) of computer systems in a sustainable world 🌍.
 
 If you are interested in my work (or in my thoughts), please feel free to send me a message so we can discuss it!
 
