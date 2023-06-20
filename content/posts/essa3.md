@@ -17,7 +17,7 @@ draft: false
 
 Due to various reasons (primarily the COVID pandemic), I never had the opportunity to present my previous papers physically. Hence, I hadn't met anyone from the SE community. Hence, it was the perfect occasion to get to know the community. Moreover, we even had new results to present, so the timing was ideal.
 
-First and foremost, I want to **thank Sacha and Adam** for the organization. I enjoyed this event so much. I consider this kind of event to be more fruitful than any top-tier conference to build collaborations and plant the seeds of future scientific breakthroughs;
+First and foremost, I want to **thank Sacha and Adam** for the organization. I enjoyed this event so much. I consider this kind of event to be more fruitful than any top-tier conference to build collaborations and plant the seeds of future scientific breakthroughs.
 
 # The venue
 
@@ -45,7 +45,7 @@ You may wonder what I presented during this workshop. This is an excellent quest
 
 This paper was tricky to write because it is unusual for the security community. Instead of theoretical guarantees/bounds, we propose to rely on statistical guarantees. We gathered positive feedback at ESSA, and I was super happy about it. The paper is still under review, so we are not there yet, but it is a good first sign. This idea has many implications (not only in SE), so I am looking forward to the feedback from the community.
 
-If you want to take a look at my slides, you can find them here: {{< ref "presentations/essa3_sse_risk_assess.pdf" >}}.
+If you want to take a look at my slides, you can find them here: {{< ref "presentations/essa3_sse_risk_assess.pdf" >}}. A preprint should be available soon and once the paper is accepted, I will write another post to detail the intuitions behind the paper.
 
 # What's next in Searchable Encryption?
 
