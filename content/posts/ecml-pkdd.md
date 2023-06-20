@@ -1,9 +1,9 @@
 ---
 title: "ECML-PKDD, my first ML conference: between discovery and disillusions"
 date: 2022-10-18T15:19:20+01:00
-category: ["Conference"]
-summary: I attended my first conference in person and wanted to share the perspective of a young doctoral student full of ideals on scientific work.
-description: I attended my first conference in person and wanted to share the perspective of a young doctoral student full of ideals on scientific work.
+category: ["Conference", "Machine Learning"]
+summary: I attended my first in-person conference and wanted to share the perspective of a young doctoral student full of ideals on scientific work.
+description: I attended my first in-person conference and wanted to share the perspective of a young doctoral student full of ideals on scientific work.
 cover:
   image: "/images/ecml_pkdd.jpg"
   alt: "ECML-PKDD 2022 image"
