@@ -45,7 +45,7 @@ You may wonder what I presented during this workshop. This is an excellent quest
 
 This paper was tricky to write because it is unusual for the security community. Instead of theoretical guarantees/bounds, we propose to rely on statistical guarantees. We gathered positive feedback at ESSA, and I was super happy about it. The paper is still under review, so we are not there yet, but it is a good first sign. This idea has many implications (not only in SE), so I am looking forward to the feedback from the community.
 
-If you want to take a look at my slides, you can find them here: {{< static "presentations/essa3_sse_risk_assess.pdf" >}}. A preprint should be available soon and once the paper is accepted, I will write another post to detail the intuitions behind the paper.
+If you want to take a look at my slides, you can find them [here](presentations/essa3_sse_risk_assess.pdf). A preprint should be available soon, and once the paper is accepted, I will write another post to detail the intuitions behind the paper.
 
 # What's next in Searchable Encryption?
 
