@@ -29,6 +29,11 @@ Besides these concrete interests, I am open to many other publications. Especial
 - M. Dijsklag, M. Damie, F. Hahn and A. Peter, *'Passive query-recovery attack against secure conjunctive keyword search schemes'*, ACNS 2022 [to be published] (**B**)
 - M. Damie, F. Hahn, and A. Peter, *‘A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents’*, USENIX Security 21 (**A\***)
 
+# Service
+
+- Sub-reviews: PETS 2023, CODASPY 2022
+- Program committee: NDSS Artifact Evaluation 2024
+
 # Awards 🏆
 
 - Nomination for the Dutch CyberSecurity Research Paper (i.e. top 3) with the paper *‘A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents’*

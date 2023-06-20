@@ -18,7 +18,7 @@ math: true
 I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in privacy-preserving machine learning between the University of Twente 🇳🇱 and Inria Lille 🇫🇷.
 I am a geeky person 🤓 able to discuss in vain any new hype technology. But, on a more personal aspect, I am trying to figure out the place (and the sense) of computer systems in a sustainable world 🌍.
 
-If you are interested in my work (or in my thoughts), please feel free to send me a message so we can discuss it!
+If you are interested in my work (or in my thoughts), please message me so we can discuss it!
 
 # Long Bio 📚
 
@@ -52,7 +52,7 @@ If you are interested in my work (or in my thoughts), please feel free to send m
   - Supervised by Andreas Peter and Florian Hahn
   - `Python`, `numpy`, `pandas`, `nltk`, `scipy`
 - *[2020]* Freelance (Remote)
-  - Producing MOOC-like content for a programming training. Open-source modules (examples: [Introduction to security (in French)](https://librecours.net/module/culture/securite/), [Introduction to GDPR (in French)](https://librecours.net/module/culture/rgpd/index.xhtml)).
+  - Producing MOOC-like content for programming training. Open-source modules (examples: [Introduction to security (in French)](https://librecours.net/module/culture/securite/), [Introduction to GDPR (in French)](https://librecours.net/module/culture/rgpd/index.xhtml)).
   - `Python`, `JS`
 - *[Sept. 19 - Feb. 20]* Python **Back-End intern** in [Gatewatcher](https://www.gatewatcher.com/en/) (Paris, France)
   - Work on the intrusion detection system Trackwatch
@@ -66,7 +66,7 @@ If you are interested in my work (or in my thoughts), please feel free to send m
 
 ## Volunteering in non-profit associations 🚀
 
-- *[Since February 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/) : a non-profit Internet Service Provider
+- *[Since February 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/): a non-profit Internet Service Provider
   - Provides events, like [Imaginarium Festival](https://www.imaginariumfestival.com/), with WiFi used for contactless payment
   - Provides our subscribers with internet access
   - Organizes conferences about open-source and Free-culture movement
@@ -77,11 +77,11 @@ If you are interested in my work (or in my thoughts), please feel free to send m
   - Website and reservation system development
   - Enigmas using computers, Raspberry Pi, and sensors
 
-## Academic Involvements 🏫
+## Institutional responsabilities 🏫
 
-- *[2017-2021]* **Student representative in the board of directors** of the University of Technology of Compiègne
-- *[2018-2019]* Student representative in the CS department of the University of Technology of Compiègne
-- *[2017-2019]* Student representative in the Humanities department of the University of Technology of Compiègne
+- *[2017-2021]* **Student representative at the board of directors** of the University of Technology of Compiègne
+- *[2018-2019]* Student representative at the CS department at the University of Technology of Compiègne
+- *[2017-2019]* Student representative at the Humanities department of the University of Technology of Compiègne
 
 ## Technical skills 💻
 
@@ -100,5 +100,5 @@ If you are interested in my work (or in my thoughts), please feel free to send m
 ## My Interests 🧙
 
 - eSport 🎮
-- CTF
-- Beers 🍻 with interesting people
+- CTF 🧑‍💻
+- Drinks 🍻 with interesting people
