@@ -15,16 +15,19 @@ math: true
 
 # Short Bio 📕
 
-I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in privacy-preserving machine learning between the University of Twente 🇳🇱 and Inria Lille 🇫🇷.
+I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in privacy-preserving machine learning at the University of Twente 🇳🇱 and Inria Lille 🇫🇷.
 I am a geeky person 🤓 able to discuss in vain any new hype technology. But, on a more personal aspect, I am trying to figure out the place (and the sense) of computer systems in a sustainable world 🌍.
 
-If you are interested in my work (or in my thoughts), please message me so we can discuss it!
+If you are interested in my work (or my thoughts), please message me to discuss it!
 
 # Long Bio 📚
 
 ## Education 🎓
 
-- *[2016-2021]* **Engineering diploma** in Computer Science from the [University of Technology of Compiègne (UTC)](https://www.utc.fr) (Compiègne, France)
+- *[2022-now]* **PhD degree** in Computer Science from the [University of Lille](https://www.univ-lille.fr) (Lille, France)
+  - Subject: Secure protocols for verifiable decentralized machine learning
+  - Supervisors: Florian Hahn (University of Twente), Andreas Peter (University of Oldenburg), and Jan Ramon (Inria Lille)
+- *[2016-2021]* **Engineering diploma** in Computer Science from the [University of Technology of Compiègne](https://www.utc.fr) (Compiègne, France)
   - Major: Data Mining
   - Minors: "Mathematical Modelling", "Philosophy, Technology and Cognition", "Controversies, Communication and Technology"
   - GPA: 5/5
@@ -38,14 +41,16 @@ If you are interested in my work (or in my thoughts), please message me so we ca
 
 ## Work experience 💼
 
-- *[Oct. 21 - Sept. 25]* **PhD student in Federated Learning** (France/The Netherlands)
-  - Co-supervised by Florian Hahn (University of Twente), Andreas Peter (University of Twente/University of Oldenburg) and Jan Ramon (Inria Lille).
-  - Our general goal is to bring scalability and security to Federated Learning.
-  - Topics: Cryptography, privacy, ML, Secure Multi-Party Computation
+- *[Apr. 22 - now]* **Doctoral contract** in the [Inria MAGNET team](https://team.inria.fr/magnet/) (Lille, France)
+  - Work on my PhD research.
+  - Topics: Cryptography, Privacy, ML, MPC
+- *[Oct. 21 - Mar. 22]* **Research engineer** in the [Inria MAGNET team](https://team.inria.fr/magnet/) (Lille, France)
+  - Developed modules for the open-source library Tailed (dedicated to Federated Learning)
+  - Prepared my PhD topic
   - `C/C++`, `Python`, `Rust`
 - *[Feb. 21 - July 21]* **Research engineer internship** in the [Inria MAGNET team](https://team.inria.fr/magnet/) (Lille, France)
   - POC for a decentralized secure privacy-preserving surveying for mobile devices.
-  - Development and technology watch for the open-source library Tailed (which goal is to simplify access to trustworthy Federated Learning)
+  - Development and technology watch for the open-source library Tailed (whose goal is to simplify access to trustworthy Federated Learning)
   - `C/C++`, `Python`, `Kivy`, `Starlette`, `Redis`, `Gitlab CI`
 - *[Feb. 20 - July 20]* **Research intern** in the [Services, Cybersecurity and Safety group](https://www.utwente.nl/en/eemcs/scs/) (University of Twente, Netherlands)
   - Attacks against Searchable Symmetric Encryption
@@ -86,7 +91,7 @@ If you are interested in my work (or in my thoughts), please message me so we ca
 ## Technical skills 💻
 
 - Expert: `Python`, `Django`, `Flask`, `LaTeX`, `Redis`
-- Advanced: `C/C++`, `ElasticSearch`, `Docker`, `SQL`
+- Advanced: `C/C++`, `ElasticSearch`, `Docker`, `SQL`, `JavaScript/Typescript`
 - Intermediate: `R`, `Scylla`, `MongoDB`
 - Other technologies I used/learned: `Rust`, `XML`, `XSLT`, `Scilab`, `UML`, `php`, `Bash`, `HTML/CSS`, etc.
 
