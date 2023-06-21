@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marc.damie.eu/posts/apvp/</loc>
+    <loc>https://marc.damie.eu/posts/apvp-23/</loc>
+    <lastmod>2023-06-20T17:11:19+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/conference/</loc>
     <lastmod>2023-06-20T17:11:19+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/</loc>
@@ -11,10 +14,25 @@
     <loc>https://marc.damie.eu/posts/</loc>
     <lastmod>2023-06-20T17:11:19+01:00</lastmod>
   </url><url>
+    <loc>https://marc.damie.eu/tags/privacy/</loc>
+    <lastmod>2023-06-20T17:11:19+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/</loc>
+    <lastmod>2023-06-20T17:11:19+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/cryptography/</loc>
+    <lastmod>2023-06-20T15:02:19+01:00</lastmod>
+  </url><url>
     <loc>https://marc.damie.eu/posts/essa3/</loc>
     <lastmod>2023-06-20T15:02:19+01:00</lastmod>
   </url><url>
-    <loc>https://marc.damie.eu/posts/ecml-pkdd/</loc>
+    <loc>https://marc.damie.eu/tags/searchable-encryption/</loc>
+    <lastmod>2023-06-20T15:02:19+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/posts/ecml-pkdd-22/</loc>
+    <lastmod>2022-10-18T15:19:20+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/machine-learning/</loc>
     <lastmod>2022-10-18T15:19:20+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/tags/academic-project/</loc>
@@ -27,9 +45,6 @@
     <lastmod>2021-12-08T08:12:24+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/tags/social-sciences/</loc>
-    <lastmod>2021-12-08T08:12:24+01:00</lastmod>
-  </url><url>
-    <loc>https://marc.damie.eu/tags/</loc>
     <lastmod>2021-12-08T08:12:24+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/tags/admin-sys/</loc>
