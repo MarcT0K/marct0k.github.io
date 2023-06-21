@@ -1,7 +1,7 @@
 ---
 title: "APVP, the annual gathering of French privacy researchers"
 date: 2023-06-20T17:11:19+01:00
-category: ["Conference", "Privacy"]
+tags: ["Conference", "Privacy"]
 summary: After the ESSA workshop, I continued my ~~holidays~~ professional travels with APVP 2023
 description: After the ESSA workshop, I continued my ~~holidays~~ professional travels with APVP 2023
 cover:

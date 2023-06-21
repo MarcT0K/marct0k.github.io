@@ -1,7 +1,7 @@
 ---
 title: "ESSA3, an amazing workshop about Searchable Encryption"
 date: 2023-06-20T15:02:19+01:00
-category: ["Conference", "Searchable Encryption", "Cryptography", "Privacy"]
+tags: ["Conference", "Searchable Encryption", "Cryptography", "Privacy"]
 summary: In early June 2023, Searchable Encryption researchers gathered to discuss past and future achievements in this area...and I was there!
 description: In early June 2023, Searchable Encryption researchers gathered to discuss past and future achievements in this area...and I was there!
 cover:

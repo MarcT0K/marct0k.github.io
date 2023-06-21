@@ -1,7 +1,6 @@
 ---
 title: "Welcome to my blog!"
 date: 2021-12-08T07:22:20+01:00
-category:
 summary: This is a small post to introduce you to my blog.
 description: This is a small post to introduce you to my blog.
 cover:
