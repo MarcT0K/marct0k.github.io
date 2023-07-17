@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2023 17:11:19 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 19:13:00 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptography</title>
+      <link>https://marc.damie.eu/tags/cryptography/</link>
+      <pubDate>Sun, 16 Jul 2023 19:13:00 +0100</pubDate>
+      
+      <guid>https://marc.damie.eu/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://marc.damie.eu/tags/security/</link>
+      <pubDate>Sun, 16 Jul 2023 19:13:00 +0100</pubDate>
+      
+      <guid>https://marc.damie.eu/tags/security/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Conference</title>
       <link>https://marc.damie.eu/tags/conference/</link>
@@ -27,15 +45,6 @@
       <pubDate>Tue, 20 Jun 2023 17:11:19 +0100</pubDate>
       
       <guid>https://marc.damie.eu/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cryptography</title>
-      <link>https://marc.damie.eu/tags/cryptography/</link>
-      <pubDate>Tue, 20 Jun 2023 15:02:19 +0100</pubDate>
-      
-      <guid>https://marc.damie.eu/tags/cryptography/</guid>
       <description></description>
     </item>
     
