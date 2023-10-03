@@ -24,7 +24,7 @@ If you are interested in my work (or my thoughts), please message me to discuss 
 
 ## Education 🎓
 
-- *[2022-now]* **PhD degree** in Computer Science from the [University of Lille](https://www.univ-lille.fr) (Lille, France)
+- *[2022-now]* **PhD** in Computer Science from the [University of Lille](https://www.univ-lille.fr) (Lille, France)
   - Subject: Secure protocols for verifiable decentralized machine learning
   - Supervisors: Florian Hahn (University of Twente), Andreas Peter (University of Oldenburg), and Jan Ramon (Inria Lille)
 - *[2016-2021]* **Engineering diploma** in Computer Science from the [University of Technology of Compiègne](https://www.utc.fr) (Compiègne, France)
@@ -41,7 +41,9 @@ If you are interested in my work (or my thoughts), please message me to discuss 
 
 ## Work experience 💼
 
-- *[Apr. 22 - now]* **Doctoral contract** in the [Inria MAGNET team](https://team.inria.fr/magnet/) (Lille, France)
+- *[Oct. 23 - Sep. 25]* **Research contract** in the [SCS group](https://www.utwente.nl/en/eemcs/scs/) at the University of Twente (Enschede, The Netherlands)
+  - Work on my PhD research.
+- *[Apr. 22 - Sep. 23]* **Doctoral contract** in the [Inria MAGNET team](https://team.inria.fr/magnet/) (Lille, France)
   - Work on my PhD research.
   - Topics: Cryptography, Privacy, ML, MPC
 - *[Oct. 21 - Mar. 22]* **Research engineer** in the [Inria MAGNET team](https://team.inria.fr/magnet/) (Lille, France)
