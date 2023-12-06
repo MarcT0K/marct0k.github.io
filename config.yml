@@ -121,11 +121,11 @@ menu:
       name: CV
       url: "Marc_DAMIE_Resume_English.pdf"
       weight: 4
-    - name: 🔍
-      url: /search/
-      weight: 5
     - name: Tags
       url: /tags/
+      weight: 5
+    - name: 🔍
+      url: /search/
       weight: 6
 
 outputs:
