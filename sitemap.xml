@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marc.damie.eu/tags/cryptography/</loc>
-    <lastmod>2023-07-16T19:13:00+01:00</lastmod>
+    <loc>https://marc.damie.eu/posts/ccs-23/</loc>
+    <lastmod>2023-12-06T13:26:42+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/conference/</loc>
+    <lastmod>2023-12-06T13:26:42+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/</loc>
+    <lastmod>2023-12-06T13:26:42+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/posts/</loc>
+    <lastmod>2023-12-06T13:26:42+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/privacy/</loc>
+    <lastmod>2023-12-06T13:26:42+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/security/</loc>
+    <lastmod>2023-12-06T13:26:42+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/</loc>
+    <lastmod>2023-12-06T13:26:42+01:00</lastmod>
+  </url><url>
+    <loc>https://marc.damie.eu/tags/cryptography/</loc>
     <lastmod>2023-07-16T19:13:00+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/posts/tee-discussion/</loc>
     <lastmod>2023-07-16T19:13:00+01:00</lastmod>
   </url><url>
-    <loc>https://marc.damie.eu/posts/</loc>
-    <lastmod>2023-07-16T19:13:00+01:00</lastmod>
-  </url><url>
-    <loc>https://marc.damie.eu/tags/security/</loc>
-    <lastmod>2023-07-16T19:13:00+01:00</lastmod>
-  </url><url>
-    <loc>https://marc.damie.eu/tags/</loc>
-    <lastmod>2023-07-16T19:13:00+01:00</lastmod>
-  </url><url>
     <loc>https://marc.damie.eu/posts/apvp-23/</loc>
-    <lastmod>2023-06-20T17:11:19+01:00</lastmod>
-  </url><url>
-    <loc>https://marc.damie.eu/tags/conference/</loc>
-    <lastmod>2023-06-20T17:11:19+01:00</lastmod>
-  </url><url>
-    <loc>https://marc.damie.eu/tags/privacy/</loc>
     <lastmod>2023-06-20T17:11:19+01:00</lastmod>
   </url><url>
     <loc>https://marc.damie.eu/posts/essa3/</loc>
