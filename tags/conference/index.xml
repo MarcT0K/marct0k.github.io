@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Dec 2023 13:26:42 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/tags/conference/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CCS 2023, my first security conference</title>
-      <link>https://marc.damie.eu/posts/ccs-23/</link>
-      <pubDate>Wed, 06 Dec 2023 13:26:42 +0100</pubDate>
-      
-      <guid>https://marc.damie.eu/posts/ccs-23/</guid>
-      <description>In November 2023, I attended my first security conference: CCS 2023. So, how was it?</description>
-    </item>
-    
+    <lastBuildDate>Tue, 20 Jun 2023 17:11:19 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>APVP, the annual gathering of French privacy researchers</title>
       <link>https://marc.damie.eu/posts/apvp-23/</link>
