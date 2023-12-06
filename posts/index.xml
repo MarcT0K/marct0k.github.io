@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Jul 2023 19:13:00 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Dec 2023 13:26:42 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CCS 2023, my first security conference</title>
+      <link>https://marc.damie.eu/posts/ccs-23/</link>
+      <pubDate>Wed, 06 Dec 2023 13:26:42 +0100</pubDate>
+      
+      <guid>https://marc.damie.eu/posts/ccs-23/</guid>
+      <description>In November 2023, I attended my first security conference: CCS 2023. So, how was it?</description>
+    </item>
+    
     <item>
       <title>My concerns about Trusted Execution Environment</title>
       <link>https://marc.damie.eu/posts/tee-discussion/</link>
