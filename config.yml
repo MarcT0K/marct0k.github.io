@@ -67,10 +67,10 @@ params:
       url: "https://github.com/MarcT0K"
     - name: linkedin
       url: "https://www.linkedin.com/in/marc-damie-723ba2191/"
+    - name: mastodon
+      url: "https://mozilla.social/@MarcT0K"
     - name: cryptohack
       url: "https://cryptohack.org/user/marc_t0k/"
-    - name: hackthebox
-      url: "https://app.hackthebox.com/profile/276756"
     - name: rss
       url: "/posts/index.xml"
     - name: key
