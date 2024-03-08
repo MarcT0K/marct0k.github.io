@@ -68,7 +68,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/marc-damie-723ba2191/"
     - name: mastodon
-      url: "https://mozilla.social/@MarcT0K"
+      url: "https://mastodon.acm.org/@MarcT0K"
     - name: cryptohack
       url: "https://cryptohack.org/user/marc_t0k/"
     - name: rss
