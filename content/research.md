@@ -26,12 +26,13 @@ Besides these technical interests, I am open to many other topics. Especially, I
 
 # Publications 📝
 
-- M. Dijsklag, M. Damie, F. Hahn and A. Peter, *'Passive query-recovery attack against secure conjunctive keyword search schemes'*, ACNS 2022 [to be published] (**B**)
+- M. Damie, J.-B. Leger, F. Hahn and A. Peter, *'The statistical nature of leakage in SSE schemes and its role in passive attacks'*, 2023 (Preprint)
+- M. Dijsklag, M. Damie, F. Hahn and A. Peter, *'Passive query-recovery attack against secure conjunctive keyword search schemes'*, ACNS 2022 (**B**)
 - M. Damie, F. Hahn, and A. Peter, *‘A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents’*, USENIX Security 21 (**A\***)
 
 # Service
 
-- Sub-reviews: PETS 2023, CODASPY 2022
+- Sub-reviews: CCS 2024, PETS 2023, CODASPY 2022
 - Program committee: NDSS Artifact Evaluation 2024, PETS Artifact Evaluation 2024
 
 # Awards 🏆

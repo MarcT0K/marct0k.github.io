@@ -73,7 +73,7 @@ If you are interested in my work (or my thoughts), please message me to discuss 
 
 ## Volunteering in non-profit associations 🚀
 
-- *[Since February 2018]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/): a non-profit Internet Service Provider
+- *[February 2018 - September 2021]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/): a non-profit Internet Service Provider
   - Provides events, like [Imaginarium Festival](https://www.imaginariumfestival.com/), with WiFi used for contactless payment
   - Provides our subscribers with internet access
   - Organizes conferences about open-source and Free-culture movement
