@@ -9,44 +9,37 @@
       <url>https://marc.damie.eu/images/pixel.jpeg</url>
       <link>https://marc.damie.eu/images/pixel.jpeg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Dec 2023 13:26:42 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Dec 2023 13:26:42 +0100</lastBuildDate>
+    <atom:link href="https://marc.damie.eu/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CCS 2023, my first security conference</title>
       <link>https://marc.damie.eu/posts/ccs-23/</link>
       <pubDate>Wed, 06 Dec 2023 13:26:42 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/posts/ccs-23/</guid>
       <description>In November 2023, I attended my first security conference: CCS 2023. So, how was it?</description>
     </item>
-    
     <item>
       <title>APVP, the annual gathering of French privacy researchers</title>
       <link>https://marc.damie.eu/posts/apvp-23/</link>
       <pubDate>Tue, 20 Jun 2023 17:11:19 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/posts/apvp-23/</guid>
       <description>After the ESSA workshop, I continued my ~~holidays~~ professional travels with APVP 2023</description>
     </item>
-    
     <item>
       <title>ESSA3, an amazing workshop about Searchable Encryption</title>
       <link>https://marc.damie.eu/posts/essa3/</link>
       <pubDate>Tue, 20 Jun 2023 15:02:19 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/posts/essa3/</guid>
       <description>In early June 2023, Searchable Encryption researchers gathered to discuss past and future achievements in this area...and I was there!</description>
     </item>
-    
     <item>
       <title>ECML-PKDD, my first ML conference: between discovery and disillusions</title>
       <link>https://marc.damie.eu/posts/ecml-pkdd-22/</link>
       <pubDate>Tue, 18 Oct 2022 15:19:20 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/posts/ecml-pkdd-22/</guid>
       <description>I attended my first in-person conference and wanted to share the perspective of a young doctoral student full of ideals on scientific work.</description>
     </item>
-    
   </channel>
 </rss>

@@ -9,107 +9,86 @@
       <url>https://marc.damie.eu/images/pixel.jpeg</url>
       <link>https://marc.damie.eu/images/pixel.jpeg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Dec 2023 13:26:42 +0100</lastBuildDate><atom:link href="https://marc.damie.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Dec 2023 13:26:42 +0100</lastBuildDate>
+    <atom:link href="https://marc.damie.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conference</title>
       <link>https://marc.damie.eu/tags/conference/</link>
       <pubDate>Wed, 06 Dec 2023 13:26:42 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/conference/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Privacy</title>
       <link>https://marc.damie.eu/tags/privacy/</link>
       <pubDate>Wed, 06 Dec 2023 13:26:42 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/privacy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Security</title>
       <link>https://marc.damie.eu/tags/security/</link>
       <pubDate>Wed, 06 Dec 2023 13:26:42 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/security/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cryptography</title>
       <link>https://marc.damie.eu/tags/cryptography/</link>
       <pubDate>Sun, 16 Jul 2023 19:13:00 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/cryptography/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Searchable Encryption</title>
       <link>https://marc.damie.eu/tags/searchable-encryption/</link>
       <pubDate>Tue, 20 Jun 2023 15:02:19 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/searchable-encryption/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Machine Learning</title>
       <link>https://marc.damie.eu/tags/machine-learning/</link>
       <pubDate>Tue, 18 Oct 2022 15:19:20 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/machine-learning/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Academic Project</title>
       <link>https://marc.damie.eu/tags/academic-project/</link>
       <pubDate>Wed, 08 Dec 2021 08:12:24 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/academic-project/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Graph</title>
       <link>https://marc.damie.eu/tags/graph/</link>
       <pubDate>Wed, 08 Dec 2021 08:12:24 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/graph/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Social Sciences</title>
       <link>https://marc.damie.eu/tags/social-sciences/</link>
       <pubDate>Wed, 08 Dec 2021 08:12:24 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/social-sciences/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Admin Sys</title>
       <link>https://marc.damie.eu/tags/admin-sys/</link>
       <pubDate>Wed, 08 Dec 2021 08:12:15 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/admin-sys/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Course</title>
       <link>https://marc.damie.eu/tags/course/</link>
       <pubDate>Wed, 08 Dec 2021 08:12:15 +0100</pubDate>
-      
       <guid>https://marc.damie.eu/tags/course/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
