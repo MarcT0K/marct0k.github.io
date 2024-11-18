@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Dec 2023 13:26:42 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:32:19 +0100</lastBuildDate>
     <atom:link href="https://marc.damie.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastodon vs. Bluesky, the future of healthy social media is not there (yet)</title>
+      <link>https://marc.damie.eu/posts/mastodon-vs-bluesky/</link>
+      <pubDate>Mon, 18 Nov 2024 09:32:19 +0100</pubDate>
+      <guid>https://marc.damie.eu/posts/mastodon-vs-bluesky/</guid>
+      <description>With the increasing issues in Twitter/X governance, there is a recurring debate within Tech communities: is Mastodon or Bluesky the future? According to me, none of them.</description>
+    </item>
     <item>
       <title>CCS 2023, my first security conference</title>
       <link>https://marc.damie.eu/posts/ccs-23/</link>

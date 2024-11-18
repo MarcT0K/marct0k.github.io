@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Social Media on Marc DAMIE - Privacy researcher - Human form of the 💡 emoji</title>
+    <link>https://marc.damie.eu/tags/social-media/</link>
+    <description>Recent content in Social Media on Marc DAMIE - Privacy researcher - Human form of the 💡 emoji</description>
+    <image>
+      <title>Marc DAMIE - Privacy researcher - Human form of the 💡 emoji</title>
+      <url>https://marc.damie.eu/images/pixel.jpeg</url>
+      <link>https://marc.damie.eu/images/pixel.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2024 09:32:19 +0100</lastBuildDate>
+    <atom:link href="https://marc.damie.eu/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastodon vs. Bluesky, the future of healthy social media is not there (yet)</title>
+      <link>https://marc.damie.eu/posts/mastodon-vs-bluesky/</link>
+      <pubDate>Mon, 18 Nov 2024 09:32:19 +0100</pubDate>
+      <guid>https://marc.damie.eu/posts/mastodon-vs-bluesky/</guid>
+      <description>With the increasing issues in Twitter/X governance, there is a recurring debate within Tech communities: is Mastodon or Bluesky the future? According to me, none of them.</description>
+    </item>
+  </channel>
+</rss>
