@@ -21,7 +21,7 @@ My point is simple: **none of them are the future of healthy social media** (*ye
 
 Recently, I've often been asked my POV on this debate. It is always hard to answer with structured and clear arguments. This post is then my answer to this tricky question. More than just answering it, I also highlight what is needed to build a healthy Social Web.
 
-# Mastodon has issues, I know
+# 1. Mastodon has issues, I know
 
 To start this discussion, a criticism of Mastodon is a nice starting point. I am some sort of Mastodon enthusiast, but I am aware of its *current* flaws. 
 
@@ -49,7 +49,7 @@ All these problems in the Fediverse created a concern within me: a premature mig
 My dream would be to call for a migration when the Fediverse is ready. Such perspectives should help building the Fediverse with a clear goal. It should also force developers/administrators/users to **see the current problems** as a roadmap instead of a shame.
 
 
-# But Bluesky isn't a real solution either
+# 2. But Bluesky isn't a real solution either
 
 Now, let's talk about Bluesky. It is a clearly nice place, much nicer than Twitter/X. However, I have major concerns about it. While the founders claim it cannot become like Twitter/X, I have a few elements creating doubts.
 
@@ -79,7 +79,7 @@ All this Bluesky phenomenon looks like a "decentralization" washing to me: it so
 They have no real source of income. One day or another, the VCs will force the profitable changes. The fact that Bluesky is not fully decentralized looks like a way to keep control on the network… and to make profit from it.
 
 
-# Social media is MUCH MORE than microblogging
+# 3. Social media is MUCH MORE than microblogging
 
 
 Now, I can tell you the most important of my message: **the debate Mastodon vs. Bluesky does not matter**. Microblogging is only a small part of social media (https://sproutsocial.com/insights/new-social-media-demographics/). I know that many people hate Musk (as I do), but Twitter/X should not be our only priority.
@@ -88,7 +88,7 @@ Instagram, YouTube and TikTok are more popular, and have massive impact on their
 
 Even if Musk is crazy, mainstream social media were problematic even before him. Surveillance capitalism is poisoning our digital world and our real lives. We must reinvent the Social Web and Mastodon/Bluesky could at best be a small part of it.  
 
-# The path to a healthy social web
+# 4. The path to a healthy social web
 
 Until now, my post could have been quite depressing. However, I want to end on a positive note. All the previous paragraphs aimed to put everything into perspective. The Internet can be rebuild in a healthy manner but we must stop listening to VC-backed narratives. To build a Social Web, I would have three main suggestions.
 
