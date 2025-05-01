@@ -27,8 +27,6 @@ If you want to learn more about the analysis of Web using graph, I strongly reco
 
 Thanks to the graph above, we see an occupation of Web territory very well thought by the Church of Scientology. To create this graph, I just needed to crawl from scientology.org (with a fixed maximum depth). No data cleaning has been done.
 
-[Web Version of the graph](/scientology-graph/index.html)
-
 ## *Legend*
 
 * Node : Website/entity
