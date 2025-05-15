@@ -8,13 +8,13 @@
     "text": "Marc Damie"
   },
   "text": {
-    "more": "This graph represents the Misskey network using the most recently active users.\n\nSee the documentation of Fedivertex for more details.",
-    "intro": "",
+    "more": "This graph represents the Misskey network based on the most recently active users..\n\nSee the documentation of Fedivertex for more details.",
+    "intro": "This graph represents the Misskey network based on the most recently active users..\n\nSee the documentation of Fedivertex for more details.",
     "title": "Misskey network"
   },
   "legend": {
     "edgeLabel": "Interaction",
-    "colorLabel": "N/A",
+    "colorLabel": "Language",
     "nodeLabel": "Instance"
   },
   "features": {
