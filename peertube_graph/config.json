@@ -8,18 +8,18 @@
     "text": "Marc Damie"
   },
   "text": {
-    "more": "This graph represents the Peertube network. We observe the \"follow\" between Peertube instance/servers.",
-    "intro": "",
+    "more": "This graph represents the Peertube network.\n\nSee the documentation of Fedivertex for more details.",
+    "intro": "This graph represents the Peertube network.\n\nSee the documentation of Fedivertex for more details.",
     "title": "Peertube network"
   },
   "legend": {
-    "edgeLabel": "Follow",
-    "colorLabel": "Language of the instance",
+    "edgeLabel": "Interaction",
+    "colorLabel": "Language",
     "nodeLabel": "Instance"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "languages",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "default"
   },
   "informationPanel": {
