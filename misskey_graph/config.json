@@ -8,8 +8,8 @@
     "text": "Marc Damie"
   },
   "text": {
-    "more": "This graph represents the Misskey network based on the most recently active users..\n\nSee the documentation of Fedivertex for more details.",
-    "intro": "This graph represents the Misskey network based on the most recently active users..\n\nSee the documentation of Fedivertex for more details.",
+    "more": "This graph represents the Misskey network (excluding misskey.io) based on the most recently active users.\n\nSee the documentation of Fedivertex for more details.",
+    "intro": "This graph represents the Misskey network (excluding misskey.io) based on the most recently active users.\n\nSee the documentation of Fedivertex for more details.",
     "title": "Misskey network"
   },
   "legend": {
