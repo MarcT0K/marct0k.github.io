@@ -15,7 +15,7 @@ math: true
 
 # Short Bio 📕
 
-I am a a researcher and engineer in Privacy-Enhancing Technologies. I have a Ph.D. in Applied Cryptography and an MSc. in Data Mining.
+I am a researcher and engineer in Privacy-Enhancing Technologies. I have a Ph.D. in Applied Cryptography and an MSc. in Data Mining.
 I am a geeky person 🤓 able to discuss in vain any new hype technology. But, on a more personal aspect, I am trying to figure out the place (and the sense) of computer systems in a sustainable world 🌍.
 
 If you are interested in my work (or my thoughts), please message me to discuss it!
