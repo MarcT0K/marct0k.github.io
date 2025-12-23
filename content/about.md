@@ -15,7 +15,7 @@ math: true
 
 # Short Bio 📕
 
-I am a freshly graduated Computer engineer 🎓 interested in Cybersecurity and Data. I am currently a PhD student in privacy-preserving machine learning at the University of Twente 🇳🇱 and Inria Lille 🇫🇷.
+I am a a researcher and engineer in Privacy-Enhancing Technologies. I have a Ph.D. in Applied Cryptography and an MSc. in Data Mining.
 I am a geeky person 🤓 able to discuss in vain any new hype technology. But, on a more personal aspect, I am trying to figure out the place (and the sense) of computer systems in a sustainable world 🌍.
 
 If you are interested in my work (or my thoughts), please message me to discuss it!
@@ -33,12 +33,13 @@ If you are interested in my work (or my thoughts), please message me to discuss 
 
 - French: Native
 - English: C1
-- Spanish: B2
-- Basics of Dutch, Russian, and Chinese
+- Dutch: A2/B1
+- Basics of Spanish, Russian, and Chinese.
 
 
 ## Volunteering in non-profit organizations 🚀
 
+- *[September 2024-now]* Co-founder of [**ctrl+alt+reclaim**](https://ctrl-alt-reclaim.org), a pan-European youth movement promoting youth-inspired digital regulations and policies.
 - *[February 2018 - September 2021]* Member then Treasurer of [**Rhizome**](https://rhizome-fai.net/): a non-profit Internet Service Provider
   - Provides events, like [Imaginarium Festival](https://www.imaginariumfestival.com/), with WiFi used for contactless payment
   - Provides our subscribers with internet access

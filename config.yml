@@ -1,5 +1,5 @@
 baseURL: "https://marc.damie.eu/"
-title: Marc DAMIE - Privacy researcher - Human form of the 💡 emoji
+title: Marc DAMIE, Ph.D. - Privacy researcher
 languageCode: en-us
 paginate: 5
 theme: PaperMod
@@ -15,7 +15,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Marc DAMIE - Privacy researcher - Human form of the 💡 emoji
+  title: Marc DAMIE, Ph.D. - Privacy researcher
   description: "Work and thoughts of Marc DAMIE, researcher in privacy-enhancing technologies."
   keywords: [Research, Cryptography, Privacy, Machine Learning, Marc, DAMIE]
   author: Marc DAMIE
@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Bonjour, I am Marc DAMIE 👋
-    subtitle: I am a PhD Student 🧑‍🎓 in Privacy-Preserving Machine Learning @ Inria 🇫🇷 & UTwente 🇳🇱. This website provides updated information about my research work as well as various thoughts 🤔 related to research 🔬, technology ⚙️ or modern society 🌍.
+    subtitle: I am a researcher and engineer in Privacy-Enhancing Technologies. This website provides updated information about my research work as well as various thoughts 🤔 related to research 🔬, technology ⚙️ or modern society 🌍.
     imageUrl: "/images/profile_pic.jpg"
     imageWidth: 250
     imageHeight: 250

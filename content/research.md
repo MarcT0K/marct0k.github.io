@@ -9,29 +9,34 @@ draft: false
 
 # Current status 🏫
 
-In October 2021, I started a PhD in Federated Learning between Inria Lille and the University of Twente. I am supervised by Jan Ramon (Inria Lille), Florian Hahn (UTwente) and Andreas Peter (UTwente/University of Oldenburg).
-
-The goal of my thesis is to provide highly scalable and secure solutions for Federated Learning with a particular focus on resource-constrained devices (e.g. smartphones).
+I have obtained a Ph.D. in Applied Cryptography (titled *Privacy-Preserving Computations on Sparse Data*) in December 2025. As I finish my Ph.D., I am slowly starting to transition into industry. My goal is to find an unusual position at the intersection of academia and industry in order to build and deploy real-world privacy-enhancing technologies.
 
 # Research Interests 🔬
 
-I have two main research interests are:
+I am interested in any privacy-enhancing technology. So far, I have worked on multiparty computation, searchable encrypted, and federated learning, but I am not attached to these primitives. My only motivation is to find real-world privacy problems, and to solve them using the best solutions.
 
-1. **Federated Learning**, especially its security aspect. Hence, I read papers about SMPC, Homomorphic Encryption, Function Secret Sharing, etc. My intent isn't to build highly complex ML systems but simply to propose generic secure building blocks for them.
-2. **Searchable Encryption**. This is a subject on which I worked during a previous research internship with Florian Hahn and Andreas Peter. I still have some results and ideas that will result in occasional publications on this subject.
-
-More generally, my overall interest is in the privacy-preserving use of data.
+If ever you are an non-profit organization and need support from a privacy engineer/researcher, please reach out to me! In the upcoming years, I am willing to dedicate part of my time to pro-bono research & development.
 
 Besides these technical interests, I am open to many other topics. Especially, I am looking forward to any insights on ethics or environmental evaluation of computer systems. These elements essentially contribute to my personal reflections about my long-term role as a computer scientist in world facing multiple crisis.
 
 # Publications 📝
 
-- M. Damie, J.-B. Leger, F. Hahn and A. Peter, *'The statistical nature of leakage in SSE schemes and its role in passive attacks'*, 2023 (Preprint)
-- M. Dijsklag, M. Damie, F. Hahn and A. Peter, *'Passive query-recovery attack against secure conjunctive keyword search schemes'*, ACNS 2022 (**B**)
-- M. Damie, F. Hahn, and A. Peter, *‘A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents’*, USENIX Security 21 (**A\***)
+- M. Damie, and E. Cyffers, *'Fedivertex: a Graph Dataset based on Decentralized Social Networks for Trustworthy Machine Learning'*, 2025
+- M. Damie, M. Pop, and M. Posthuma, *'Energy Consumption of TLS, Searchable Encryption and Fully Homomorphic Encryption'*, FPS 2025
+- M. Damie, F. Mazzone, F. Hahn, A. Peter, and J. Ramon, *'Noisy Function Secret Sharing and its applications to Differentially Private computations'*, 2025
+- M. Damie, F. Hahn, A. Peter, and J. Ramon, *'DDH-based schemes for multi-party Function Secret Sharing'*, NordSec 2025
+- M. Damie, F. Hahn, A. Peter, and J. Ramon, *'Eliminating Exponential Key Growth in PRG-Based Distributed Point Functions'*, DPM/ESORICS Workshops 2025
+- M. Damie, F. Hahn, A. Peter, and J. Ramon, *'Secure Sparse Matrix Multiplications and their Applications to Privacy-Preserving Machine Learning'*, 2025
+- M. Damie, F. Hahn, A. Peter, and J. Ramon, *'How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations'*, 2025
+- B. van Dartel, M. Damie, and F. Hahn, *'Evaluating Membership Inference Attacks in heterogeneous-data setups'*, ACNS Workshops 2025
+- M. Damie, J.-B. Leger, F. Hahn and A. Peter, *'Revisiting the Attacker’s Knowledge in Inference Attacks Against Searchable Symmetric Encryption'*, ACNS 2025
+- M. Dijsklag, M. Damie, F. Hahn and A. Peter, *'Passive query-recovery attack against secure conjunctive keyword search schemes'*, ACNS 2022
+- M. Damie, F. Hahn, and A. Peter, *‘A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents’*, USENIX Security 21
 
-# Awards 🏆
+# Awards & Honors 🏆
 
+- Young Talents in Cybersecurity 2025, co-organized by the French Embassy in The Netherlands and the Dutch Embassy in France.
+- Distinguished Artifact Reviewer at PETS 2025.
 - Nomination for the Dutch CyberSecurity Research Paper (i.e. top 3) with the paper *‘A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents’*
 
 # Service
