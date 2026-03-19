@@ -21,14 +21,16 @@ Besides these technical interests, I am open to many other topics. Especially, I
 
 # Publications 📝
 
-- M. Damie, and E. Cyffers, *'Fedivertex: a Graph Dataset based on Decentralized Social Networks for Trustworthy Machine Learning'*, 2025
+- M. Damie, M.B. Ertan, D. Essoussi, A. Makhanu, G. Peter, R. Wensveen, *'TOSSS: a CVE-based Software Security Benchmark for Large Language Models'*, 2026
+- C. Gupta, N. Guldali, and M. Damie, *'Fedivertex: a Graph Dataset based on Decentralized Social Networks for Trustworthy Machine Learning'*, EuroSec/EuroSys Workshops 2026
+- M. Damie, and E. Cyffers, *'Fedivertex: a Graph Dataset based on Decentralized Social Networks for Trustworthy Machine Learning'*, WWW 2026
+- M. Damie, F. Hahn, A. Peter, and J. Ramon, *'Secure Sparse Matrix Multiplications and their Applications to Privacy-Preserving Machine Learning'*, CODASPY 2026
 - M. Damie, M. Pop, and M. Posthuma, *'Energy Consumption of TLS, Searchable Encryption and Fully Homomorphic Encryption'*, FPS 2025
 - M. Damie, F. Mazzone, F. Hahn, A. Peter, and J. Ramon, *'Noisy Function Secret Sharing and its applications to Differentially Private computations'*, 2025
 - M. Damie, F. Hahn, A. Peter, and J. Ramon, *'DDH-based schemes for multi-party Function Secret Sharing'*, NordSec 2025
 - M. Damie, F. Hahn, A. Peter, and J. Ramon, *'Eliminating Exponential Key Growth in PRG-Based Distributed Point Functions'*, DPM/ESORICS Workshops 2025
-- M. Damie, F. Hahn, A. Peter, and J. Ramon, *'Secure Sparse Matrix Multiplications and their Applications to Privacy-Preserving Machine Learning'*, 2025
 - M. Damie, F. Hahn, A. Peter, and J. Ramon, *'How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations'*, 2025
-- B. van Dartel, M. Damie, and F. Hahn, *'Evaluating Membership Inference Attacks in heterogeneous-data setups'*, ACNS Workshops 2025
+- B. van Dartel, M. Damie, and F. Hahn, *'Evaluating Membership Inference Attacks in heterogeneous-data setups'*, SIMLA/ACNS Workshops 2025
 - M. Damie, J.-B. Leger, F. Hahn and A. Peter, *'Revisiting the Attacker’s Knowledge in Inference Attacks Against Searchable Symmetric Encryption'*, ACNS 2025
 - M. Dijsklag, M. Damie, F. Hahn and A. Peter, *'Passive query-recovery attack against secure conjunctive keyword search schemes'*, ACNS 2022
 - M. Damie, F. Hahn, and A. Peter, *‘A Highly Accurate Query-Recovery Attack against Searchable Encryption using Non-Indexed Documents’*, USENIX Security 21
@@ -44,4 +46,3 @@ Besides these technical interests, I am open to many other topics. Especially, I
 - Sub-reviews: CCS 2024, PETS 2023, CODASPY 2022
 - Program committee: NDSS Artifact Evaluation 20{24,25}, PETS Artifact Evaluation 20{24,25}, USENIX Security Poster (2024)
 - Student representative at the University of Technology of Compiègne: Board of directors (2017-2021), CS department (2018-2019), Humanities department (2017-2019)
-
