@@ -22,7 +22,7 @@ Besides these technical interests, I am open to many other topics. Especially, I
 # Publications 📝
 
 - M. Damie, M.B. Ertan, D. Essoussi, A. Makhanu, G. Peter, R. Wensveen, *'TOSSS: a CVE-based Software Security Benchmark for Large Language Models'*, 2026
-- C. Gupta, N. Guldali, and M. Damie, *'Fedivertex: a Graph Dataset based on Decentralized Social Networks for Trustworthy Machine Learning'*, EuroSec/EuroSys Workshops 2026
+- C. Gupta, N. Guldali, and M. Damie, *'IoTLS 2.0: How Far Has IoT Industry Come in Securing Communications with TLS?'*, EuroSec/EuroSys Workshops 2026
 - M. Damie, and E. Cyffers, *'Fedivertex: a Graph Dataset based on Decentralized Social Networks for Trustworthy Machine Learning'*, WWW 2026
 - M. Damie, F. Hahn, A. Peter, and J. Ramon, *'Secure Sparse Matrix Multiplications and their Applications to Privacy-Preserving Machine Learning'*, CODASPY 2026
 - M. Damie, M. Pop, and M. Posthuma, *'Energy Consumption of TLS, Searchable Encryption and Fully Homomorphic Encryption'*, FPS 2025
