@@ -18,6 +18,8 @@ math: true
 I am a researcher and engineer in Privacy-Enhancing Technologies. I have a Ph.D. in Applied Cryptography and an MSc. in Data Mining.
 I am a geeky person 🤓 able to discuss in vain any new hype technology. But, on a more personal aspect, I am trying to figure out the place (and the sense) of computer systems in a sustainable world 🌍.
 
+If ever you are an non-profit organization and need support from a privacy engineer/researcher, please reach out to me! In the upcoming years, I am willing to dedicate part of my time to pro-bono research & development.
+
 If you are interested in my work (or my thoughts), please message me to discuss it!
 
 # A few (anecdotal) facts about me 📚

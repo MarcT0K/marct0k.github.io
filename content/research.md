@@ -7,17 +7,44 @@ summary: Me, my research and I.
 draft: false
 ---
 
-# Current status 🏫
+I started my academic career because I want to improve online privacy for everyone.
+While many researchers are motivated by theoretical or technical puzzles, my work is primarily driven by this societal concern.
 
-I have obtained a Ph.D. in Applied Cryptography (titled *Privacy-Preserving Computations on Sparse Data*) in December 2025. As I finish my Ph.D., I am slowly starting to transition into industry. My goal is to find an unusual position at the intersection of academia and industry in order to build and deploy real-world privacy-enhancing technologies.
+# Research Pillars 🔬
 
-# Research Interests 🔬
+Preserving privacy is an ambitious, perhaps even too ambitious, goal.
+Privacy is a multifaceted issue that is difficult to fully apprehend.
+No single research project can address the complexity of online privacy on its own.
+To make this goal more tractable, I structure my research around three core pillars: attacking, enhancing, and deploying.
 
-I am interested in any privacy-enhancing technology. So far, I have worked on multiparty computation, searchable encrypted, and federated learning, but I am not attached to these primitives. My only motivation is to find real-world privacy problems, and to solve them using the best solutions.
+## Attacking Privacy
 
-If ever you are an non-profit organization and need support from a privacy engineer/researcher, please reach out to me! In the upcoming years, I am willing to dedicate part of my time to pro-bono research & development.
+The first step in addressing privacy issues is to identify them.
+This research pillar focuses on analyzing systems and schemes to uncover privacy vulnerabilities.
+In the cryptography community, attacks, or cryptanalysis, are an essential complement to the design of secure constructions.
+My objective is to extend this approach beyond cryptography and identify privacy vulnerabilities in a broader range of systems.
 
-Besides these technical interests, I am open to many other topics. Especially, I am looking forward to any insights on ethics or environmental evaluation of computer systems. These elements essentially contribute to my personal reflections about my long-term role as a computer scientist in world facing multiple crisis.
+My early work focused on attacks against cryptographic schemes, and I have continued in this direction in subsequent work.
+In addition to cryptographic settings, I have also studied privacy issues in other systems, including machine learning models.
+
+## Enhancing Privacy
+
+Following the identification of privacy issues, the next step is to mitigate them through the design of privacy-enhancing technologies (PETs).
+This pillar focuses on developing tools that enable meaningful computations on sensitive data while preserving privacy.
+
+The design of cryptographic protocols has been a central part of my research, notably on multi-party computation (MPC).
+In addition, my work also covers non-cryptographic approaches such as differential privacy (DP).
+This range of approaches is a distinctive aspect of my research, as I try to identify and combine methods that can improve privacy guarantees in practice.
+
+## Deploying Privacy
+
+Research on PETs has been active during the last two decades.
+While some tools, such as zero-knowledge proofs or encrypted databases, have reached a certain level of maturity, their adoption in real-world services remains limited.
+This gap suggests that the main challenges are not only technical.
+To achieve practical impact, privacy research must also account for human and societal factors.
+
+This third pillar therefore focuses on the deployment of privacy technologies and the challenges that arise in practice.
+The goal is to study the factors that influence whether privacy solutions are adopted and how their guarantees may be weakened in real-world settings.
 
 # Publications 📝
 
